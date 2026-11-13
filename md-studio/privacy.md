@@ -25,7 +25,7 @@ permalink: /md-studio/privacy
 
 **變更**：若政策有更動，會更新本頁並修改上方日期。
 
-**聯絡**：[allen.liu9876@gmail.com]
+**聯絡**：[allen.liu9876@gmail.com](mailto:allen.liu9876@gmail.com)
 
 ## English
 
@@ -44,4 +44,4 @@ permalink: /md-studio/privacy
 
 **Changes**: If this policy changes, this page and the date above will be updated.
 
-**Contact**: [allen.liu9876@gmail.com]
+**Contact**: [allen.liu9876@gmail.com](mailto:allen.liu9876@gmail.com)
