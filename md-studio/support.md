@@ -8,7 +8,7 @@ permalink: /md-studio/support
 
 ## 聯絡 / Contact
 
-[請填入聯絡信箱 / please enter a contact email]
+[allen.liu9876@gmail.com]
 
 ## 常見問題 / FAQ
 
